@@ -1,0 +1,28 @@
+/*
+Theme Name: Naveed
+Theme URI: http://enaveed.com/
+Author: Engr. Naveed
+Author URI: http://enaveed.com/
+Description: A Customized version of twenty sixteen.
+Version: 1.0
+Template: twentysixteen
+*/
+
+body {
+    background: transparent;
+}
+
+p {
+    margin: 0 0 1em;
+}
+
+.social-media-links li{
+    list-style: none;
+    float: left;
+    margin-right: 1em;
+}
+
+.site-footer{
+    border-top: 4px solid #1a1a1a;
+    padding: 1em;
+}
